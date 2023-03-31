@@ -1,0 +1,15 @@
+.html,body{
+    height: 100%;
+    width: 100%;
+}
+.left img {
+width: 135px;
+height: 27px;
+}
+.container{
+    max-width: 80vw;
+    margin: auto;
+}
+.center nav ul and li{
+    list-style: none;
+}
