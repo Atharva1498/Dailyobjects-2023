@@ -5,11 +5,17 @@
 .left img {
 width: 135px;
 height: 27px;
+padding-right:40px ;
+align-items: center;
+margin-left: 30px;
 }
 .container{
     max-width: 80vw;
     margin: auto;
 }
-.center nav ul and li{
-    list-style: none;
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
 }
